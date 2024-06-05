@@ -16,6 +16,6 @@
 O objetivo deste software é cadastrar clientes e manter seus dados como uma lista telefonica de antigamente, porém tudo digital, sendo possivél a busca por usuários.
 
 ## Funcionalidades do Sistema
-- [Funcionalidade 1]: cadastro
-- [Funcionalidade 2]: busca
-- [Funcionalidade 3]: filtragem
+ [Funcionalidade 1]: cadastro
+ [Funcionalidade 2]: busca
+ [Funcionalidade 3]: filtragem
