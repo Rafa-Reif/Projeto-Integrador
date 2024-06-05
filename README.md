@@ -17,5 +17,7 @@ O objetivo deste software é cadastrar clientes e manter seus dados como uma lis
 
 ## Funcionalidades do Sistema
 Funcionalidade 1: cadastro
+
 Funcionalidade 2: busca
+
 Funcionalidade 3: filtragem
